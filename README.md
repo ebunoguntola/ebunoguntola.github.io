@@ -20,4 +20,4 @@ A rising senior at Harvard College studying statistics (machine learning track) 
 <ins>Web Dev</ins>: Flask, Jinja, Bootstrap
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/ebun-oguntola-853605236/) | [Website](https://www.ebunoguntola.github.io) | [Email](ebunoguntola@college.harvard.edu)
+[LinkedIn](https://www.linkedin.com/in/ebun-oguntola-853605236/) | [Website](https://ebunoguntola.github.io) | [Email](ebunoguntola@college.harvard.edu)
