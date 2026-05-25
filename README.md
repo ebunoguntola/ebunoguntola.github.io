@@ -17,7 +17,7 @@ A rising senior at Harvard College studying statistics (machine learning track) 
 ## Frameworks, Libraries, and Software
 <ins>ML/Data</ins>: pandas, NumPy, Firebase, scikit-learn, spaCy, PyTorch, Hugging Face <br>
 <ins>Data Viz</ins>: ggplot2, Matplotlib, seaborn, Tableau, Plotly <br>
-<ins>Web Dev</ins>: Flask, Jinja, Bootstrap
+<ins>Web Dev</ins>: Flask, Jinja, Bootstrap <br>
 <ins>Other</ins>: VS Code, RStudio, Jupyter, Colab
 
 ## Contact
