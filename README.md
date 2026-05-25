@@ -15,9 +15,10 @@ A rising senior at Harvard College studying statistics (machine learning track) 
 <ins>Data/Stats</ins>: SQL, R
 
 ## Frameworks, Libraries, and Software
-<ins>ML/Data</ins>: pandas, NumPy, scikit-learn, spaCy, PyTorch, Hugging Face <br>
+<ins>ML/Data</ins>: pandas, NumPy, Firebase, scikit-learn, spaCy, PyTorch, Hugging Face <br>
 <ins>Data Viz</ins>: ggplot2, Matplotlib, seaborn, Tableau, Plotly <br>
 <ins>Web Dev</ins>: Flask, Jinja, Bootstrap
+<ins>Other</ins>: VS Code, RStudio, Jupyter, Colab
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ebun-oguntola-853605236/) | [Website](https://ebunoguntola.github.io) | [Email](ebunoguntola@college.harvard.edu)
